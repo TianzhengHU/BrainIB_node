@@ -4,5 +4,9 @@ paper: Interpretable Diagnosis of Schizophrenia Using Graph-Based Brain Network 
 Dataset:
 This dataset includes fMRI data of 1142 individuals between 15-64 years old supported by the Georgia Institute of Technology, including 502 schizophrenia patients(180 female and 322 male) and 640 healthy controls(379 female and 261 male). 
 
-https://docs.google.com/spreadsheets/d/1KgIr02h--7iiAVWU9-Ot-jjgIo3Zm0N2/edit?usp=share_link&ouid=113502786367980120186&rtpof=true&sd=true
+Since the dataset is still under private access, we haven't published the raw data. Thank you for your understanding.
 
+Dataset detail description: https://docs.google.com/spreadsheets/d/1KgIr02h--7iiAVWU9-Ot-jjgIo3Zm0N2/edit?usp=share_link&ouid=113502786367980120186&rtpof=true&sd=true
+
+
+For any question, please email \email{t.hu2@student.vu.nl} or\email{mashtz@163.com}
