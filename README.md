@@ -9,4 +9,4 @@ Since the dataset is still under private access, we haven't published the raw da
 Dataset detail description: https://docs.google.com/spreadsheets/d/1KgIr02h--7iiAVWU9-Ot-jjgIo3Zm0N2/edit?usp=share_link&ouid=113502786367980120186&rtpof=true&sd=true
 
 
-For any question, please email \email{t.hu2@student.vu.nl} or\email{mashtz@163.com}
+For any question, please contact with {t.hu2@student.vu.nl} or {mashtz@163.com}
