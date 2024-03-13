@@ -6,7 +6,7 @@ This dataset includes fMRI data of 1142 individuals between 15-64 years old supp
 
 Since the dataset is still under private access, we haven't published the raw data. Thank you for your understanding.
 
-Dataset detail description: https://drive.google.com/file/d/1NHrmxRA41yKcJgzaiU50sbM3LM2IOMHu/view?usp=share_link
+Dataset detail: https://drive.google.com/file/d/1NHrmxRA41yKcJgzaiU50sbM3LM2IOMHu/view?usp=share_link
 
 
-For any question, please contact with {t.hu2@student.vu.nl} or {mashtz@163.com}
+For any question, please contact with t.hu2@student.vu.nl or mashtz@163.com
